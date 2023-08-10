@@ -1,7 +1,7 @@
 <template>
   <div class="app">
     <header class="header">
-      <span class="title">Photo Editor</span>
+      <span class="title">Photo Cropper</span>
       <navbar
         :data="data"
         @change="change"
